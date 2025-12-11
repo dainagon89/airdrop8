@@ -1,1 +1,2 @@
+no airdrop
 # airdrop8
